@@ -19,6 +19,17 @@ A flight controller is essentially the brain of the whole drone. It takes comman
 I will be using the [betaflight](https://betaflight.com/) firmware because it's the industry standard, and I have used it many times in the past for configuring drones. This FC was designed according to the Betaflight design guidelines and the connector guidelines and is plug/play with any other standard hardware.  
 
 
+Connection to the motors
+
+![image](https://github.com/user-attachments/assets/0b13b81a-19fd-4221-a80f-dbbc6e8247b0)
+
+
+Schematic:
+
+![image](https://github.com/user-attachments/assets/c0a58f38-ea3b-4d91-98f3-fb87f2f3611c)
+
+
+
 BOM:
 
 | Item  | Price |
