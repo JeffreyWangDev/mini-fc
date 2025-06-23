@@ -2,7 +2,12 @@
 1. Needs to have a 2amp BEC for dji o4
 2. Needs to use the F405 microcontroller
 3. Fits in the 25.5mm frame
-4. One sided other than microcontroller
+4. One sided preferably
+
+Other than this PCB I will buy the following to control+connect:
+1. [VTX](https://www.getfpv.com/dji-o4-air-unit.html) - $120
+2. [RX](https://www.getfpv.com/betafpv-elrs-lite-v1-1-2-4ghz-receiver-w-flat-antenna.html) - $13
+3. [TX](https://radiomasterrc.com/products/zorro-radio-controller?variant=46486367371456) - $120
 
 
 
@@ -46,3 +51,9 @@ Redid the design, now I made it diagonal which will fit into the frane a bit bet
 ![image](https://github.com/user-attachments/assets/feef039b-e107-4a70-b848-bc88cf13fa76)
 
 Working on a newer one that a bit more clean
+
+### Day 5 and hopefully last day
+7 hours
+Updated the design to be FULLY one-sided!!! YAY I can save like $100 by not using standard assembly.
+
+This time, I rounded while placing components to make sure I had space. I think I used the space much more efficiently this time. Also, on earlier boards, I calculated the distance between the holes incorrectly, which messed everything up, fixed in this one. 
