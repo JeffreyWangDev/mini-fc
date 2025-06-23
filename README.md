@@ -23,8 +23,8 @@ BOM:
 
 | Item  | Price |
 | ------------- | ------------- |
-| The PCB  | $100-$170  |
+| The PCB  | $160  |
 | [VTX](https://www.getfpv.com/dji-o4-air-unit.html)  | $109  |
 | [RX](https://www.getfpv.com/betafpv-elrs-lite-v1-1-2-4ghz-receiver-w-flat-antenna.html)  | $12  |
 | [Motors](https://www.getfpv.com/betafpv-0802se-brushless-motors-4-pcs-19500kv-22000kv.html)  | $52  |
-| Total  | $273 -343 |
+| Total  | $333 |
