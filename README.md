@@ -1,4 +1,4 @@
-# Miniature F405 flight controller 
+# Miniature F405 flight controller - CosFLight
 ![image](https://github.com/user-attachments/assets/32e93f73-0ac1-4fae-924f-ef5e97563c82)
 
 
