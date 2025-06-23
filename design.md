@@ -57,3 +57,9 @@ Working on a newer one that a bit more clean
 Updated the design to be FULLY one-sided!!! YAY I can save like $100 by not using standard assembly.
 
 This time, I rounded while placing components to make sure I had space. I think I used the space much more efficiently this time. Also, on earlier boards, I calculated the distance between the holes incorrectly, which messed everything up, fixed in this one. 
+
+![image](https://github.com/user-attachments/assets/4542c10d-e378-4043-9203-e3f250ea819b)
+![image](https://github.com/user-attachments/assets/b4258b45-d845-4957-a9ea-478a18137e93)
+![image](https://github.com/user-attachments/assets/0698d57c-2449-4318-a6cd-1c10657a0770)
+
+
