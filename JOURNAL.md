@@ -12,7 +12,7 @@ Other than this PCB I will buy the following to control+connect:
 
 
 ### Day one
-9 hours 
+**9 hours**
 Made a initial list of components bassed on https://betaflight.com/docs/development/manufacturer/manufacturer-design-guidelines.
 
 Watched this series https://www.youtube.com/watch?v=Rv1MVkZuGbg&list=PLoPtpxJIxgnYnPrOeGHs3rdhhPgNGIYN5 
@@ -26,13 +26,13 @@ Started working on the schematic
 ![image](https://github.com/user-attachments/assets/258ac21f-563f-4ebf-b6fa-e10353dc7558)
 
 ### Day 2/
-2 hours
+**2 hours**
 Researched limits for components, relized i needed to swap out the buck-boast ic for a diffrent one, used this to help find one https://webench.ti.com/power-designer/switching-regulator
 
 Looked at commercially avalible ones made for small crafts like these, all use a smaller controller but that also requires custom firmware which is too hard to do. Still sticking with the f405. Looked into adding a onboard RX but decided not to due to the space required. 
 
 ### Day 3
-10 hours
+**10 hours**
 
 Initial PCB design
 ![image](https://github.com/user-attachments/assets/5f0df157-8afc-4827-8fee-1c36d67c3175)
@@ -43,7 +43,7 @@ Problem was that i still could not fit everthing, I gave up after this, spent to
 
 
 ### Day 4 
-8 hours
+**8 hours**
 
 Redid the design, now I made it diagonal which will fit into the frane a bit better. Was able to get stuff to fit but unable to route the traces. 
 
@@ -53,7 +53,7 @@ Redid the design, now I made it diagonal which will fit into the frane a bit bet
 Working on a newer one that a bit more clean
 
 ### Day 5 and hopefully last day
-7 hours
+**7 hours**
 Updated the design to be FULLY one-sided!!! YAY I can save like $100 by not using standard assembly.
 
 This time, I rounded while placing components to make sure I had space. I think I used the space much more efficiently this time. Also, on earlier boards, I calculated the distance between the holes incorrectly, which messed everything up, fixed in this one. 
