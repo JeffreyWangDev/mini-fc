@@ -1,6 +1,10 @@
 # Miniature F405 flight controller 
 ![image](https://github.com/user-attachments/assets/32e93f73-0ac1-4fae-924f-ef5e97563c82)
 
+
+Design link:  https://oshwlab.com/jeffreywasd/mini-fc
+
+
 ## What is this???
 
 I love drones. I love flying them and building them. The problem is, I'm lazy. I don't like driving 20 mins every day to go fly and would much rather fly from my house. The problem is that all of the drones that I have are big. Like, scary chop your fingers off big. I dont like pissing off my parents with holes in the wall so I want to build a small drone. A drone that has a base of 65mm by 65mm. The problem is that the new technology, DJI O4, takes a lot of power, and most of the commercial ones are not made to handle 1.5 amps at 5V (yes, it sounds like not a lot, but if the Vin is just 3.3V, a 1s lipo, 5V at 1.5 amps is a good amount.) I want to design one that can handle the newest generation of VHD video transmitting  in a tiny package. 
