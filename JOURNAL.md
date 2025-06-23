@@ -4,6 +4,8 @@
 3. Fits in the 25.5mm frame
 4. One sided preferably
 
+Design link:  https://oshwlab.com/jeffreywasd/mini-fc
+
 Other than this PCB I will buy the following to control+connect:
 1. [VTX](https://www.getfpv.com/dji-o4-air-unit.html) - $120
 2. [RX](https://www.getfpv.com/betafpv-elrs-lite-v1-1-2-4ghz-receiver-w-flat-antenna.html) - $13
