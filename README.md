@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/32e93f73-0ac1-4fae-924f-ef5e97563c82)
 
 
-Design link:  https://oshwlab.com/jeffreywasd/mini-fc
+Design link:  https://oshwlab.com/jeffrey098765437/mini-fc
 
 
 ## What is this???
