@@ -60,6 +60,21 @@ Updated the design to be FULLY one-sided!!! YAY I can save like $100 by not usin
 
 This time, I rounded while placing components to make sure I had space. I think I used the space much more efficiently this time. Also, on earlier boards, I calculated the distance between the holes incorrectly, which messed everything up, fixed in this one. 
 
+
+
+### Day 6-7
+**12 hours**
+Spent alot of time reading about and finding some open-source ESCs so i can have a baseline to build off. Hard to find any that were new and open source. Make a schematic of the ESC side of the board. 
+![image](https://github.com/user-attachments/assets/e3d232b2-8d89-47da-b465-aab2e7c77c2e)
+
+
+### Day 8
+**8 hours**
+At this point, I think I have laid out this PCB at least 15 times, I still can't find a way to fit the components on. 
+![image](https://github.com/user-attachments/assets/aa02196b-82e4-466e-a09d-2c77122b852c)
+
+
+
 ![image](https://github.com/user-attachments/assets/4542c10d-e378-4043-9203-e3f250ea819b)
 ![image](https://github.com/user-attachments/assets/b4258b45-d845-4957-a9ea-478a18137e93)
 ![image](https://github.com/user-attachments/assets/0698d57c-2449-4318-a6cd-1c10657a0770)
