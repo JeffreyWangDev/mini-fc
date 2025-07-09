@@ -34,8 +34,12 @@ BOM:
 
 | Item  | Price |
 | ------------- | ------------- |
-| The PCB  | $160  |
+| The PCB  | $389  |
 | [VTX](https://www.getfpv.com/dji-o4-air-unit.html)  | $109  |
 | [RX](https://www.getfpv.com/betafpv-elrs-lite-v1-1-2-4ghz-receiver-w-flat-antenna.html)  | $12  |
-| [Motors](https://www.getfpv.com/betafpv-0802se-brushless-motors-4-pcs-19500kv-22000kv.html)  | $52  |
-| Total  | $333 |
+| [65mm Frame](https://www.aliexpress.us/item/3256808449738593.html)  | $6.98  |
+| [0802 motors](https://www.aliexpress.us/item/3256808348565675.html)  | $38.03  |
+| [40mm props](https://www.aliexpress.us/item/3256808156378532.html)  | $1.91  |
+| [Pocket RX](https://radiomasterrc.com/products/pocket-radio-controller-m2?variant=46486346301632)  | $65  |
+| [Battery connector](https://www.amazon.com/BETAFPV-Connector-Meteor65-TinyWhoop-Inductrix/dp/B081C5RLJ9?th=1)  | $11  |
+| [Batteries](https://www.amazon.com/BETAFPV-Connector-Quadcopters-Meteor75-Brushless/dp/B0CPDJYCGB)  | $25  |
