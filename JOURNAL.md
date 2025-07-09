@@ -80,3 +80,9 @@ At this point, I think I have laid out this PCB at least 15 times, I still can't
 ![image](https://github.com/user-attachments/assets/0698d57c-2449-4318-a6cd-1c10657a0770)
 
 
+### Day 8,9,10,11
+** 30 hours **
+All of these days were spent working on the schematic for the ESC or laying out the board. I got it to work with a six-layer board. Next time, I might just have a four-layer board for the FC as a smd part, and then solder it on a 2 layer esc. This also allows for upgradability of the fc/esc and it allowes easy replacement if one breaks. Below is the picture of the final board. 
+![image](https://github.com/user-attachments/assets/73de5c5a-ce36-40ae-9eaf-fbd01a18621c)
+![image](https://github.com/user-attachments/assets/7b897565-473f-4d22-9595-bef9d27813be)
+
