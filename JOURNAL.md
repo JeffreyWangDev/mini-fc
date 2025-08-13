@@ -86,3 +86,13 @@ All of these days were spent working on the schematic for the ESC or laying out 
 ![image](https://github.com/user-attachments/assets/73de5c5a-ce36-40ae-9eaf-fbd01a18621c)
 ![image](https://github.com/user-attachments/assets/7b897565-473f-4d22-9595-bef9d27813be)
 
+
+
+### Day 12
+**1 hours** 
+
+The assembly part on my end was pretty small, other than some problems with an ESC. As a result, I needed to desolder some chips to prevent a short from happening. I also soldered on the battery cable! (The white hair is from a cotton ball used to clean it)
+<img width="874" height="924" alt="image" src="https://github.com/user-attachments/assets/01a227a5-c75f-47d8-bba3-676b39c70ea9" />
+<img width="873" height="1117" alt="image" src="https://github.com/user-attachments/assets/7dde253a-4d4a-4618-9f27-68f0a3d005b5" />
+
+
