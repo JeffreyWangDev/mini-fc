@@ -11,7 +11,7 @@ Other than this PCB I will buy the following to control+connect:
 2. [RX](https://www.getfpv.com/betafpv-elrs-lite-v1-1-2-4ghz-receiver-w-flat-antenna.html) - $13
 3. [TX](https://radiomasterrc.com/products/zorro-radio-controller?variant=46486367371456) - $120
 
-
+Total hours: 86 
 
 ### Day one
 **9 hours**
