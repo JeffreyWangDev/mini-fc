@@ -1,8 +1,11 @@
 # Miniature F405 flight controller - CosFLight
 ![image](https://github.com/user-attachments/assets/32e93f73-0ac1-4fae-924f-ef5e97563c82)
+<img width="716" height="968" alt="image" src="https://github.com/user-attachments/assets/4177a09b-f2d4-45f8-a851-3954c3fa4f68" />
 
 
 Design link:  https://oshwlab.com/jeffrey098765437/mini-fc
+
+Small demo: https://youtu.be/RGNprXtU4pM
 
 
 ## What is this???
