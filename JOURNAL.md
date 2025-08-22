@@ -91,8 +91,13 @@ All of these days were spent working on the schematic for the ESC or laying out 
 ### Day 12
 **1 hours** 
 
-The assembly part on my end was pretty small, other than some problems with an ESC. As a result, I needed to desolder some chips to prevent a short from happening. I also soldered on the battery cable! (The white hair is from a cotton ball used to clean it)
+The assembly part on my end was pretty small, other than some problems with an ESC. As a result, I needed to desolder some chips to prevent a short from happening. I also soldered on the battery cable! (The white hair is from a cotton ball used to clean it).
 <img width="874" height="924" alt="image" src="https://github.com/user-attachments/assets/01a227a5-c75f-47d8-bba3-676b39c70ea9" />
 <img width="873" height="1117" alt="image" src="https://github.com/user-attachments/assets/7dde253a-4d4a-4618-9f27-68f0a3d005b5" />
 
 
+
+What I learned from this project:
+- DO NOT put too many things and/or features into the board, it won't work out as well as if you were to make them separately.
+- READ documentation, I didn't realize I needed to get a serial programmer for the ESC, this time I'm only waiting a couple extra days, but in the future, this could be way worse.
+- Double-check everything! The one thing that I didn't check had a mistake!
